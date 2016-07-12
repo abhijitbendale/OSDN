@@ -39,10 +39,11 @@ by passing images through Caffe's architecture.
 Compile LibMR and python interface to LibMR using following commands.
 For pythong interfaces to work, you would require Cython to be pre-installed
 on your machine
->>> cd libMR/
->>> chmod +x compile.sh
->>> ./compile.sh
-
+```bash
+cd libMR/
+chmod +x compile.sh
+./compile.sh
+```
 
 #### 2) Precomputed Features
 ##### 2.a) Extract features using a pre-trained AlexNet network. The extracted features
