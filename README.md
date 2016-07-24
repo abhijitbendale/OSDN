@@ -1,8 +1,8 @@
 This software package contains code used for conducting experiments in
 following work:
 
-A. Bendale, T. Boult “Towards Open Set Deep Networks” IEEE Conference on 
-Computer Vision and Pattern Recognition (CVPR), 2016 ([pdf](http://vast.uccs.edu/~abendale/papers/0348.pdf))
+A. Bendale, T. Boult “[Towards Open Set Deep Networks](http://vast.uccs.edu/~abendale/papers/0348.pdf)” IEEE Conference on 
+Computer Vision and Pattern Recognition (CVPR), 2016 [pdf](http://vast.uccs.edu/~abendale/papers/0348.pdf)
 
 Authors: Abhijit Bendale (abendale@vast.uccs.edu)
 Terrance Boult (tboult@vast.uccs.edu)
