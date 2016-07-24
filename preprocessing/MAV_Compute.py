@@ -29,6 +29,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.                                    #
 #                                                                                                 #
 #                                                                                                 #
+# Author: Abhijit Bendale (abendale@vast.uccs.edu)                                                #
 # If you use this code, please cite the following works                                           #
 #                                                                                                 #
 # A. Bendale, T. Boult “Towards Open Set Deep Networks” IEEE Conference on                        #
