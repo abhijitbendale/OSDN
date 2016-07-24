@@ -90,7 +90,8 @@ on ILSVRC 2012 dataset with this code repository. You can download the mean acti
 using following command
 
 ```bash
-wget http://vast.uccs.edu/OSDN/mean_files.tar
+wget http://vast.uccs.edu/OSDN/data.tar
+tar -cvf data.tar
 ```
 The structure of Mean Files is very simple. For e.g.
 
@@ -132,7 +133,7 @@ each class, so that you have access to the distance distribution from MAV for ea
 category. It can be downloaded from
 
 ```bash
-wget http://vast.uccs.edu/OSDN/mean_distance_files.tar
+wget http://vast.uccs.edu/OSDN/data.tar
 ```
 
 There are 1000 distance distributions, one for each category. The script used for computing
@@ -148,9 +149,25 @@ Weibull tailfitting for each category while computing probability for OpenMax
 	
 #### 3) Computing Probability values using OpenMax algorithm
 
+OpenMax probability for given image can be computed using following command.
+
 ```python
-python c
+python compute_openmax.py --image_arrname data/train_features/n01440764/n01440764_14280.JPEG.mat
 ```
 
+The script accepts image feature files (features extracted from caffe as mentioned above). It computes openmax probability for the said image using default weibull tail sizes and other parameters. For more details, check the paper or get in touch with authors.
+
 #### 4) Fooling Images
+Fooling images are generously provided by Anh Nguyen and Prof. Jeff Clune from University of Wyoming. We will upload the fooling images and features extracted for fooling images in few days. When you use fooling images, please be sure to cite the following paper
+
+```
+@InProceedings{nguyen2015deep,
+title={Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images},
+author={Nguyen, Anh and Yosinski, Jason and Clune, Jeff},
+booktitle={Computer Vision and Pattern Recognition (CVPR), 2015 IEEE Conference on},
+year={2015},
+organization={IEEE}
+}
+```
+
 
