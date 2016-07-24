@@ -69,7 +69,7 @@ will lead to
 
 where fc7, fc8, prob, scores are outputs of respective layers provided by Caffe Library.
 Further, fc8 layer contains 10 channels for 1000 classes of ImageNet. These channels are
-referred to as crops in Caffe library (https://github.com/BVLC/caffe/blob/master/python/caffe/classifier.py, check the function predict() ). The average of prob layer (i.e. SoftMax layer) is the
+referred to as crops in Caffe library [classifier.py](https://github.com/BVLC/caffe/blob/master/python/caffe/classifier.py), check the function predict() ). The average of prob layer (i.e. SoftMax layer) is the
 final probability value reported by AlexNet as architected in Caffe Library. In the paper (and
 code), each of these 10 crops is referred to as channel. Hence, average of features['prob'],
 is essentially features['scores']. 
