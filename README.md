@@ -64,7 +64,7 @@ will lead to
 >>> print sp.mean(features['prob'], axis=0)[0]
 0.999071
 >>> print features['scores'][0][0]
-0.99907082
+0.9990708
 ```
 
 where fc7, fc8, prob, scores are outputs of respective layers provided by Caffe Library.
