@@ -107,7 +107,7 @@ def extractFeatures(args):
 
     # Load numpy array (.npy), directory glob (*.jpg), or image file.
         
-    imglist = obtainImgList('/home/ubuntu/datadir/imageNetForWeb/')
+    imglist = obtainImgList('imglist.txt')
     imagelist_args = [int(s) for s in args.imagelist_args.split(',')]
     pool = mp.Pool(processes=NPROCESSORS)
     arg_l = []
@@ -187,13 +187,13 @@ def main(argv):
     parser.add_argument(
         "--model_def",
         default=os.path.join(pycaffe_dir,
-                "../examples/imagenet/imagenet_deploy.prototxt"),
+                "../data/caffe_train_data/imagenet_deploy.prototxt"),
         help="Model definition file."
     )
     parser.add_argument(
         "--pretrained_model",
         default=os.path.join(pycaffe_dir,
-                "../examples/imagenet/caffe_reference_imagenet_model"),
+                "../data/caffe_train_data/caffe_reference_imagenet_model"),
         help="Trained model weights file."
     )
     parser.add_argument(
@@ -215,7 +215,7 @@ def main(argv):
     parser.add_argument(
         "--mean_file",
         default=os.path.join(pycaffe_dir,
-                             'caffe/imagenet/ilsvrc_2012_mean.npy'),
+                             '../data/caffe_train_data/ilsvrc_2012_mean.npy'),
         help="Data set image mean of H x W x K dimensions (numpy array). " +
              "Set to '' for no mean subtraction."
     )
@@ -241,7 +241,7 @@ def main(argv):
     parser.add_argument(
         "--labels_file",
         default=os.path.join(pycaffe_dir,
-                "../data/ilsvrc12/synset_words.txt"),
+                "../data/caffe_train_data/synset_words_caffe_ILSVRC12.txt"),
         help="Readable label definition file."
     )
     parser.add_argument(
