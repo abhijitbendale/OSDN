@@ -9,6 +9,18 @@ Terrance Boult (tboult@vast.uccs.edu)
 Vision and Security Technology Lab
 University of Colorado at Colorado Springs
 
+Citing the paper
+
+```
+@InProceedings{bendale-boult-cvpr2016,
+title={Towards Open Set Deep Networks},
+author={Bendale, Abhijit and Boult, Terrance},
+booktitle={Computer Vision and Pattern Recognition (CVPR), 2016 IEEE Conference on},
+year={2016},
+organization={IEEE}
+}
+```
+
 The code is provided "as is", without any guarantees. Please refer
 COPYRIGHT.txt and libMR/COPYRIGHT_Libmr.txt for more details
 about license and usage restrictions.
