@@ -182,4 +182,12 @@ organization={IEEE}
 }
 ```
 
+Please download the images from
 
+```
+wget http://vast.uccs.edu/OSDN/fooling_images.tar
+```
+
+The images are made available under Creative Commons liecense. In case any questions about fooling images, please get in touch with
+Prof. Jeff Clune or Anh Nguyen from [University of Wyoming](http://www.evolvingai.org/members). You can also find their fantanstic work
+on fooling images on their [webpage](http://www.evolvingai.org/fooling)
