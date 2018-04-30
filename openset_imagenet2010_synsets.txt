@@ -1,0 +1,360 @@
+n07751451 plum
+n03558404 ice skate
+n13032115 morel
+n11608250 pine, pine tree, true pine
+n01786646 millipede, millepede, milliped
+n02112826 corgi, Welsh corgi
+n12272883 shingle oak, laurel oak, Quercus imbricaria
+n03020692 chisel
+n07744811 blackberry
+n12726670 weeping willow, Babylonian weeping willow, Salix babylonica
+n12075151 spider orchid
+n04349306 subway train
+n12401684 fig, common fig, common fig tree, Ficus carica
+n07723177 shallot
+n12059314 dendrobium
+n11807979 pink, garden pink
+n11839568 four o'clock
+n12513933 redbud, Cercis canadensis
+n07729485 soy, soybean, soya, soya bean
+n01641206 wood-frog, wood frog, Rana sylvatica
+n03014440 chessman, chess piece
+n07720277 chard, Swiss chard, spinach beet, leaf beet
+n12523475 Brazilian rosewood, caviuna wood, jacaranda, Dalbergia nigra
+n12058630 marsh orchid
+n07771212 walnut
+n12072722 masdevallia
+n02952374 canteen
+n12261808 American beech, white beech, red beech, Fagus grandifolia, Fagus americana
+n07744246 currant
+n04118021 rug, carpet, carpeting
+n12492106 golden shower tree, drumstick tree, purging cassia, pudding pipe tree, canafistola, canafistula, Cassia fistula
+n02283201 moth
+n02997607 ceramic ware
+n04140064 saw
+n12755727 Japanese maple, full moon maple, Acer japonicum
+n07770763 pumpkin seed
+n03974915 point-and-shoot camera
+n11793779 calla lily, calla, arum lily, Zantedeschia aethiopica
+n03071160 colonnade
+n11980318 strawflower, golden everlasting, yellow paper daisy, Helichrysum bracteatum
+n06267145 newspaper, paper
+n11721337 lesser celandine, pilewort, Ranunculus ficaria
+n12407222 Dutch elm, Ulmus hollandica
+n03571625 ink bottle, inkpot
+n03484931 hand glass, simple microscope, magnifying glass
+n07725531 green pea, garden pea
+n07732747 cress
+n11733054 delphinium
+n11703669 laurel
+n12570972 kowhai, Sophora tetraptera
+n04332074 straight razor
+n04239436 sling, scarf bandage, triangular bandage
+n04205318 short pants, shorts, trunks
+n11943992 China aster, Callistephus chinensis
+n07769584 quince
+n03978966 polo shirt, sport shirt
+n12830222 achimenes, hot water plant
+n12544539 lentil
+n12836862 scorpionweed, scorpion weed, phacelia
+n07719213 asparagus
+n01803078 pheasant
+n04489817 trowel
+n13011595 gill fungus
+n12753007 silver maple, Acer saccharinum
+n12570394 Japanese pagoda tree, Chinese scholartree, Chinese scholar tree, Sophora japonica, Sophora sinensis
+n12276872 pin oak, swamp oak, Quercus palustris
+n01909906 polyp
+n02112497 griffon, Brussels griffon, Belgian griffon
+n02568087 striped bass, striper, Roccus saxatilis, rockfish
+n07749969 grapefruit
+n03805725 nail polish, nail enamel, nail varnish
+n03483823 hand calculator, pocket calculator
+n11950345 chrysanthemum
+n01998183 barnacle, cirriped, cirripede
+n12086012 vanda
+n11901294 Iceland poppy, Papaver alpinum
+n03757604 metronome
+n12560282 pea
+n11947802 cornflower, bachelor's button, bluebottle, Centaurea cyanus
+n11821184 ice plant, icicle plant, Mesembryanthemum crystallinum
+n11901597 prickly poppy, Papaver argemone
+n12023726 tansy, golden buttons, scented fern, Tanacetum vulgare
+n04373894 sword, blade, brand, steel
+n03781787 monitor
+n03018712 Chinese lantern
+n02918964 bumper car, Dodgem
+n07735510 pumpkin
+n13111881 bonsai
+n03239726 drill
+n02928608 button
+n11962272 coneflower
+n13001930 shiitake, shiitake mushroom, Chinese black mushroom, golden oak mushroom, Oriental black mushroom, Lentinus edodes
+n12075010 fly orchid, Ophrys insectifera, Ophrys muscifera
+n07713763 mustard, mustard greens, leaf mustard, Indian mustard
+n12290748 centaury
+n12966945 dead-man's-fingers, dead-men's-fingers, Xylaria polymorpha
+n12074867 bee orchid, Ophrys apifera
+n02680754 adjustable wrench, adjustable spanner
+n12050533 cattleya
+n12093329 cyclamen, Cyclamen purpurascens
+n12084890 stanhopea
+n12985420 truffle, earthnut, earth-ball
+n07734292 cherry tomato
+n07722485 green onion, spring onion, scallion
+n12044467 aerides
+n12158031 gourd
+n11921395 pearly everlasting, cottonweed, Anaphalis margaritacea
+n12282737 downy birch, white birch, Betula pubescens
+n13049953 polypore, pore fungus, pore mushroom
+n07758680 grape
+n11943660 common marigold, pot marigold, ruddles, Scotch marigold, Calendula officinalis
+n03329302 Ferris wheel
+n03122295 covered wagon, Conestoga wagon, Conestoga, prairie wagon, prairie schooner
+n12076223 phaius
+n03150511 curling iron
+n07762913 durian
+n07765208 elderberry
+n11725821 wood anemone, Anemone nemorosa
+n11712282 tulip tree, tulip poplar, yellow poplar, canary whitewood, Liriodendron tulipifera
+n12658118 mountain ash
+n12754003 Oregon maple, big-leaf maple, Acer macrophyllum
+n12269241 live oak
+n02872752 boot
+n03982232 pool ball
+n03852688 optical telescope
+n03261776 earphone, earpiece, headphone, phone
+n11908846 celandine poppy, wood poppy, Stylophorum diphyllum
+n11709205 star anise, Chinese anise, Illicium verum
+n03420801 garrison cap, overseas cap
+n12049282 grass pink, Calopogon pulchellum, Calopogon tuberosum
+n11903671 celandine, greater celandine, swallowwort, swallow wort, Chelidonium majus
+n12683407 scabious, scabiosa
+n02898711 bridge, span
+n12056217 lady's slipper, lady-slipper, ladies' slipper, slipper orchid
+n12201580 cacao, cacao tree, chocolate tree, Theobroma cacao
+n03034663 circular saw, buzz saw
+n02090827 greyhound
+n12987056 lichen
+n03505504 headscarf
+n12884260 toadflax, butter-and-eggs, wild snapdragon, devil's flax, Linaria vulgaris
+n07723039 leek
+n02824448 bell
+n12055516 cymbid, cymbidium
+n01779629 mite
+n03360622 flat bench
+n12727518 goat willow, florist's willow, pussy willow, Salix caprea
+n13043926 puffball, true puffball
+n03908204 pencil
+n12713866 cork tree, Phellodendron amurense
+n12023407 dusty miller, silver-lace, silver lace, Tanacetum ptarmiciflorum, Chrysanthemum ptarmiciflorum
+n02537525 rainbow trout, Salmo gairdneri
+n12278650 cork oak, Quercus suber
+n01963571 mussel
+n12069679 lizard orchid, Himantoglossum hircinum
+n12495895 honey locust, Gleditsia triacanthos
+n12052787 coelogyne
+n12047884 spider orchid, Brassia lawrenceana
+n12496427 Kentucky coffee tree, bonduc, chicot, Gymnocladus dioica
+n11759404 silk tree, Albizia julibrissin, Albizzia julibrissin
+n04525584 Venetian blind
+n01641391 leopard frog, spring frog, Rana pipiens
+n03701391 machine gun
+n04453156 toothbrush
+n07730406 celery
+n03844815 oilskin, slicker
+n12754981 sycamore, great maple, scottish maple, Acer pseudoplatanus
+n02882647 bowling pin, pin
+n07743902 cranberry
+n07727048 kidney bean
+n11955896 mistflower, mist-flower, ageratum, Conoclinium coelestinum, Eupatorium coelestinum
+n12076577 moth orchid, moth plant
+n12051103 red helleborine, Cephalanthera rubra
+n02887489 brace, suspender, gallus
+n03068998 collar
+n04498389 turban
+n12073991 odontoglossum
+n12755225 box elder, ash-leaved maple, Acer negundo
+n12284262 alder, alder tree
+n12774299 balata, balata tree, beefwood, bully tree, Manilkara bidentata
+n07764155 mango
+n02274822 nymphalid, nymphalid butterfly, brush-footed butterfly, four-footed butterfly
+n04411264 tent, collapsible shelter
+n12890265 veronica, speedwell
+n04021028 pullover, slipover
+n03940256 pin
+n07767171 mulberry
+n11971248 gazania
+n03301568 euphonium
+n11805956 sandwort
+n12403994 paper mulberry, Broussonetia papyrifera
+n04050066 rake
+n12527738 coral tree, erythrina
+n03266371 eggbeater, eggwhisk
+n07772147 cashew, cashew nut
+n07726095 chickpea, garbanzo
+n11727540 blue columbine, Aquilegia caerulea, Aquilegia scopulorum calcarea
+n12478768 cabbage tree, grass tree, Cordyline australis
+n04003241 Primus stove, Primus
+n11906917 blue poppy, Meconopsis betonicifolia
+n12062468 helleborine
+n02956795 cap opener
+n04491638 trundle bed, trundle, truckle bed, truckle
+n12083591 ladies' tresses, lady's tresses
+n11889619 candytuft
+n12266796 New Zealand beech
+n04576002 wheelchair
+n12172364 okra
+n12663023 Arabian coffee, Coffea arabica
+n04381587 table-tennis table, ping-pong table, pingpong table
+n11695974 ilang-ilang, ylang-ylang, Cananga odorata
+n11810358 baby's breath, babies'-breath, Gypsophila paniculata
+n12833149 African violet, Saintpaulia ionantha
+n03816136 needle
+n09344324 lunar crater
+n12199790 red beech, brown oak, booyong, crow's foot, stave wood, silky elm, Heritiera trifoliolata, Terrietia trifoliolata
+n11978233 sunflower, helianthus
+n03854815 organ pipe, pipe, pipework
+n07736692 spinach
+n02897820 brick
+n11757851 huisache, cassie, mimosa bush, sweet wattle, sweet acacia, scented wattle, flame tree, Acacia farnesiana
+n12043673 male orchis, early purple orchid, Orchis mascula
+n04143140 scanner, digital scanner, image scanner
+n12301445 olive
+n11756669 wattle
+n02764044 ax, axe
+n11748811 peanut
+n07929351 coffee bean, coffee berry, coffee
+n07739344 crab apple, crabapple
+n11907100 Welsh poppy, Meconopsis cambrica
+n03909406 pendulum clock
+n12202936 linden, linden tree, basswood, lime, lime tree
+n06595351 magazine, mag
+n12317296 iron tree, iron-tree, ironwood, ironwood tree
+n02262449 mayfly, dayfly, shadfly
+n07715221 brussels sprouts
+n12293723 gentian
+n13136316 bean
+n04295881 stadium, bowl, arena, sports stadium
+n03358172 flash, photoflash, flash lamp, flashgun, flashbulb, flash bulb
+n12281788 yellow birch, Betula alleghaniensis, Betula leutea
+n12513613 Judas tree, love tree, Circis siliquastrum
+n03604400 jumper, pinafore, pinny
+n03543254 hot plate, hotplate
+n03973628 pocketknife, pocket knife
+n09270735 dune, sand dune
+n13060190 jelly fungus
+n04127521 safety razor
+n11969607 blue daisy, blue marguerite, Felicia amelloides
+n03320519 fancy dress, masquerade, masquerade costume
+n07721678 jalapeno, jalapeno pepper
+n12582231 palm, palm tree
+n03545756 house of cards, cardhouse, card-house, cardcastle
+n12074408 oncidium, dancing lady orchid, butterfly plant, butterfly orchid
+n11958080 cosmos, cosmea
+n04464615 trackball
+n12281974 American white birch, paper birch, paperbark birch, canoe birch, Betula cordifolia, Betula papyrifera
+n12085267 stelis
+n11736694 nigella
+n07743544 blueberry
+n12302071 fringe tree
+n03075097 comb
+n12879527 calceolaria, slipperwort
+n12360108 begonia
+n04102406 roller coaster, big dipper, chute-the-chute
+n11904109 corydalis
+n12070016 laelia
+n07723559 lettuce
+n12189987 baobab, monkey-bread tree, Adansonia digitata
+n03351979 fishing rod, fishing pole
+n11664418 ginkgo, gingko, maidenhair tree, Ginkgo biloba
+n03797390 mug
+n11859737 Virginia spring beauty, Claytonia virginica
+n07746186 persimmon
+n03877674 pajama, pyjama
+n03359436 flash memory
+n12606438 commelina
+n04148054 scissors, pair of scissors
+n12049562 calypso, fairy-slipper, Calypso bulbosa
+n07772788 hazelnut, filbert, cobnut, cob
+n12043836 butterfly orchid, butterfly orchis, Orchis papilionaceae
+n07735803 turnip
+n12065316 fringed orchis, fringed orchid
+n02773838 bag, traveling bag, travelling bag, grip, suitcase
+n07774719 pecan
+n11887119 wallflower
+n12304703 European ash, common European ash, Fraxinus excelsior
+n12059625 disa
+n02508021 raccoon, racoon
+n07772935 coconut, cocoanut
+n03492922 hard hat, tin hat, safety hat
+n07711080 french fries, french-fried potatoes, fries, chips
+n03886762 paper clip, paperclip, gem clip
+n12717072 ailanthus
+n12741792 China tree, false dogwood, jaboncillo, chinaberry, Sapindus saponaria
+n07765361 guava
+n07767549 black olive, ripe olive
+n07757132 cherry
+n11826198 globe amaranth, bachelor's button, Gomphrena globosa
+n07721195 pimento, pimiento
+n12756457 holly
+n01935395 earthworm, angleworm, fishworm, fishing worm, wiggler, nightwalker, nightcrawler, crawler, dew worm, red worm
+n07749446 kumquat
+n11923397 yellow chamomile, golden marguerite, dyers' chamomile, Anthemis tinctoria
+n01953361 cowrie, cowry
+n04194127 shin guard, shinpad
+n02942349 camcorder
+n11888800 damask violet, Dame's violet, sweet rocket, Hesperis matronalis
+n12242409 sorrel tree, sourwood, titi, Oxydendrum arboreum
+n04220250 silo
+n12727101 pussy willow, Salix discolor
+n12047345 brassavola
+n07775050 pistachio, pistachio nut
+n12345899 mangrove, Rhizophora mangle
+n02950632 cannon
+n07735404 parsnip
+n07775197 sunflower seed
+n04102037 in-line skate
+n12496949 logwood, logwood tree, campeachy, bloodwood tree, Haematoxylum campechianum
+n11709674 magnolia
+n03636649 lamp
+n01986806 shrimp
+n04210120 shredder
+n03557692 ice maker
+n02807616 bathrobe
+n07772274 chestnut
+n03309356 eyepatch, patch
+n07745466 raspberry
+n01787835 horseshoe crab, king crab, Limulus polyphemus, Xiphosurus polyphemus
+n11636835 juniper berry
+n07714448 bok choy, bok choi
+n03273740 electric range
+n04233124 skyscraper
+n12064389 fragrant orchid, Gymnadenia conopsea
+n04496726 tumble-dryer, tumble drier
+n02929289 buttress, buttressing
+n11759853 rain tree, saman, monkeypod, monkey pod, zaman, zamang, Albizia saman
+n04373704 swivel chair
+n01915811 coral
+n04185804 shaver, electric shaver, electric razor
+n03416489 garage
+n11901977 oriental poppy, Papaver orientale
+n11960245 dahlia, Dahlia pinnata
+n12833985 streptocarpus
+n12190410 kapok, ceiba tree, silk-cotton tree, white silk-cotton tree, Bombay ceiba, God tree, Ceiba pentandra
+n12407079 witch elm, wych elm, Ulmus glabra
+n03521675 hipflask, pocket flask
+n02200198 mosquito
+n12946849 dogwood, dogwood tree, cornel
+n02738535 armchair
+n11770256 dita, dita bark, devil tree, Alstonia scholaris
+n07766173 litchi, litchi nut, litchee, lichi, leechee, lichee, lychee
+n03920867 pew, church bench
+n12765115 pepper tree, molle, Peruvian mastic tree, Schinus molle
+n07737745 peanut, earthnut, goober, goober pea, groundnut, monkey nut
+n11971783 African daisy
+n01956481 clam
+n04421872 thermometer
+n12916511 teak, Tectona grandis
+n12154773 pandanus, screw pine
+n04555897 watch, ticker
